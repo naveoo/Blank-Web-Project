@@ -1,0 +1,24 @@
+/*
+==============================
+    Imports
+==============================
+*/
+@font-face {
+    font-family: '';
+    src: url('assets/fonts/');
+}
+
+/*
+==============================
+    Page
+==============================
+*/
+body {
+    /*Position*/
+    padding: 0;
+    margin: 0;
+    /*Text*/
+    font-family: '';
+    color: #000000;
+    font-size: px;
+}
